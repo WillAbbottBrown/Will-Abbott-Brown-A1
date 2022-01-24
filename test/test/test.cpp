@@ -42,6 +42,7 @@ int main()
             else {
                 requireInput = false;
             }
+
         }
     } while (requireInput);
 }
